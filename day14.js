@@ -10,10 +10,11 @@ Declare a global variable country = "India" and access it inside a function.
 */
 
 function printCity() {
-  let city = "Delhi";
+  var city = "New York";
   console.log(city); // ✅
 }
 
+printCity();
 // console.log(city);
 
 if (true) {
@@ -21,7 +22,7 @@ if (true) {
   console.log(age);
 }
 
-console.log(age);
+// console.log(age);
 
 // const country = "India";
 
