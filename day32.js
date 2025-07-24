@@ -33,4 +33,15 @@ let stringVal = "kartik";
 // console.log([...stringVal].sort().join(""));
 
 // console.log(Math.sqrt(7));
-console.log(7 % 2 === 0);
+// console.log(7 % 2 === 0);
+
+function isPrime(n) {
+  if (n <= 1) return false;
+  for (let i = 2; i * i <= n; i++) {
+    if (n % i === 0) return false;
+  }
+  return true;
+}
+
+console.log(isPrime(7));
+// console.log(isPrime(4));
