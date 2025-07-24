@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My DSA Journey</title>
+<!--   <title>My DSA Journey</title> -->
 </head>
 <body style="margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(to right, #4facfe, #00f2fe); display: flex; align-items: center; justify-content: center; height: 100vh;">
 
