@@ -20,7 +20,7 @@
       💻 Language: JavaScript
     </p>
     <div style="margin-top: 25px;">
-      <a href="https://github.com/YOUR_USERNAME/YOUR_REPO](https://github.com/SupremeCoder616/DSA?tab=readme-ov-file" target="_blank" style="display: inline-block; background: #4facfe; color: white; text-decoration: none; padding: 10px 20px; border-radius: 8px; font-weight: bold;">📂 View Repository</a>
+      <a href="https://github.com/SupremeCoder616/DSA?tab=readme-ov-file]" target="_blank" style="display: inline-block; background: #4facfe; color: white; text-decoration: none; padding: 10px 20px; border-radius: 8px; font-weight: bold;">📂 View Repository</a>
     </div>
   </div>
 
