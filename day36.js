@@ -114,4 +114,16 @@ function diamondPattern2() {
   }
 }
 
-diamondPattern2();
+// diamondPattern2();
+
+// Leetcode qustion in this
+Array.prototype.last = function () {
+  if (this.length === 0) {
+    return -1;
+  }
+
+  return this[this.length - 1];
+};
+
+let val = [null, {}, 3];
+console.log(val.last());
